@@ -1,18 +1,18 @@
 /**
- *  Serre Thingspeak
+ *  Serre ThingSpeak
  *
  *  Based on "ThingSpeak Logger by florianz
  *
  *  Author: David Mongeau-Petitpas
  *  Date: 2016-10-11
  *
- *  Report data from sensors to Thingspeak
+ *  Report data from sensors to ThingSpeak
  *
  */
 
 // Automatically generated. Make future change here.
 definition(
-    name: "Serre Thingspeak",
+    name: "Serre ThingSpeak",
     namespace: "dmongeau/smartthings",
     author: "Nicholas Wilde",
     description: "Log serre events to ThingSpeak",
