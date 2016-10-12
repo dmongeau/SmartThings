@@ -17,8 +17,8 @@ definition(
     author: "Nicholas Wilde",
     description: "Log serre events to ThingSpeak",
     category: "Convenience",
-    iconUrl: "http://simpleicon.com/wp-content/uploads/sun.png",
-    iconX2Url: "http://simpleicon.com/wp-content/uploads/sun.png")
+    iconUrl: "https://github.com/dmongeau/smartthings/raw/master/smartapps/serre-thingspeak/icon.png",
+    iconX2Url: "https://github.com/dmongeau/smartthings/raw/master/smartapps/serre-thingspeak/icon.png")
 
 preferences {
     section("Log devices...") {
